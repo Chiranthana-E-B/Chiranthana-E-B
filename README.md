@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiranthan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **python framework**
+- 🌱 I’m currently learning **pythonframework**
 
 - 💬 Ask me about **html5 css**
 

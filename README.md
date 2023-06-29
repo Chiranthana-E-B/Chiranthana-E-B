@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranthana-e-b&label=Profile%20views&color=0e75b6&style=flat" alt="chiranthana-e-b" /> </p>
 - 🌱 Electronics and Communication Engineering
+
 - 🐍 love python
+  
 - 🌱 I’m currently learning **SQL**
+  
 - 📫 How to reach me **cebaceg123@gmail.com**
+  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MUM5UVum3j7ebVDMWjdQhRFh3kHmLCFM/view?usp=drivesdk](https://drive.google.com/file/d/1MUM5UVum3j7ebVDMWjdQhRFh3kHmLCFM/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>

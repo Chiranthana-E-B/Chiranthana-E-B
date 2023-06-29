@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranthana-e-b&label=Profile%20views&color=0e75b6&style=flat" alt="chiranthana-e-b" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/chiranthana_e_b" target="blank"><img src="https://img.shields.io/twitter/follow/chiranthana_e_b?logo=twitter&style=for-the-badge" alt="chiranthana_e_b" /></a> </p>
-
 - 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **cebaceg123@gmail.com**

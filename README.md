@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **cebaceg123@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUM5UVum3j7ebVDMWjdQhRFh3kHmLCFM/view?usp=drivesdk](https://drive.google.com/file/d/1MUM5UVum3j7ebVDMWjdQhRFh3kHmLCFM/view?usp=drivesdk)
+- 📄 Know about my experiences [click](https://drive.google.com/file/d/1kHR66qHDUgDMSIMzA_6OwE1suB50jcIH/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

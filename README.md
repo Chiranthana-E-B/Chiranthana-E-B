@@ -8,9 +8,9 @@
   
 - 🌱 I’m currently learning **SQL**
   
-- 📫 How to reach me **cebaceg123@gmail.com**
+- 📫 How to reach me ****
   
-- 📄 Know about my experiences [click](https://drive.google.com/file/d/1kHR66qHDUgDMSIMzA_6OwE1suB50jcIH/view?usp=drivesdk)
+- 📄 Know about my experiences [click](https://)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

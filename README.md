@@ -26,11 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranthana-e-b&show_icons=true&locale=en&layout=compact" alt="chiranthana-e-b" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranthana-e-b&show_icons=true&locale=en" alt="chiranthana-e-b" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiranthana-E-B&show_icons=true&locale=en" alt="chiranthana-e-b" /></p>
 
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranthana-E-B&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranthana-e-b&" alt="chiranthana-e-b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranthana-e-b&" alt="Chiranthana-E-B" /></p>

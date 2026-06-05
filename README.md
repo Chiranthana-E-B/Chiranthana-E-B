@@ -28,9 +28,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiranthana-E-B&show_icons=true&locale=en" alt="Chiranthana-E-B" /></p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranthana-E-B&theme=github-dark-blue" alt="GitHub Streak" />
+  </a>
+</p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranthana-E-B&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranthana-E-B&" alt="Chiranthana-E-B" /></p>
